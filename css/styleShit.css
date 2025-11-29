@@ -1,0 +1,96 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  width: 90%;
+
+  margin: 0 auto;
+}
+header {
+  background-color: #043873;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+.home-menu {
+  font-size: 35px;
+}
+.continer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.continer {
+  background-color: #043873;
+  display: flex;
+  flex-direction: column;
+}
+.content1 {
+  background-color: #043873;
+}
+h1,
+p {
+  text-align: center;
+  color: #ffffff;
+}
+
+h1 {
+  font-size: 35px;
+  padding: 25px;
+  margin-top: 45px;
+}
+p {
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+.button {
+  border: none;
+  border-radius: 10px;
+  background-color: #4f9cf9;
+  display: flex;
+  padding: 0 20px;
+}
+.button h3 {
+  color: #ffffff;
+  font-size: 20px;
+  padding: 30px 10px 25px 20px;
+}
+.next {
+  font-size: 15px;
+  padding: 0 10px;
+}
+.absurd {
+  width: 280px;
+  height: 150px;
+  background-color: #a7cefc;
+  margin: 50px auto;
+  padding-bottom: 50px;
+}
+.content2 {
+  background-color: #ffffff;
+}
+.content2 img {
+  margin-bottom: -160px;
+}
+.content2 h1,
+p {
+  color: black;
+}
+
+.content2 h1 {
+  padding-top: 100px;
+}
+.content3 {
+  background-color: #ffffff;
+}
+.content3 h1,
+p {
+  color: black;
+}
+.content3 img {
+  margin-bottom: -160px;
+}
