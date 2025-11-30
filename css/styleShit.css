@@ -6,10 +6,16 @@
   box-sizing: border-box;
 }
 body {
-  width: 90%;
+  /*width: 90%;*/
 
+  /*margin: 0 auto;*/
+}
+
+.container {
+  max-width: 1440px;
   margin: 0 auto;
 }
+
 header {
   background-color: #043873;
   display: flex;
