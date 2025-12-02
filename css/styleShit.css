@@ -245,3 +245,26 @@ p {
   z-index: 0;
   margin: 110px 185px;
 }
+.button5 {
+  margin: 10px auto 100px auto;
+  border: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #4f9cf9;
+  display: flex;
+  padding: 0 20px;
+  width: 210px;
+  height: 70px;
+}
+.button5 h3 {
+  color: #ffffff;
+}
+.button5 img {
+  width: 20px;
+  height: 20px;
+  margin-bottom: 110px;
+  margin-left: 300px;
+  color: #ffffff;
+}
