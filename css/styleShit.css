@@ -224,3 +224,24 @@ p {
   padding-bottom: 50px;
 }
 /* ----------------------------------------------------------------------------------------------------------- */
+.absurd5 {
+  width: 280px;
+  height: 150px;
+  background-color: #a7cefc;
+  margin: 50px auto 50px auto;
+  padding-bottom: 50px;
+}
+.content5 {
+}
+.content5 h1 {
+  color: #0a0909;
+  font-size: 43px;
+  z-index: 10;
+  position: relative;
+}
+.content5 img {
+  position: absolute;
+  width: 105px;
+  z-index: 0;
+  margin: 110px 185px;
+}
