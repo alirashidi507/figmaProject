@@ -5,6 +5,10 @@
   /* padding: 0; */
   box-sizing: border-box;
 }
+@font-face {
+  font-family: "inter";
+  src: url(../font/Inter-Italic-VariableFont_opsz\wght.ttf);
+}
 
 body {
 }
@@ -277,6 +281,7 @@ p {
   position: absolute;
   width: 105px;
   z-index: 0;
+  margin: 0px;
   margin-top: -60px;
 }
 .content6 h1 {
@@ -365,11 +370,45 @@ p {
 .content8 img {
   width: 274px;
   position: absolute;
+  margin-top: 155px;
 }
 .content8 h1 {
   position: relative;
   font-size: 30px;
   text-align: left;
+  color: #ffffff;
 }
 .content8 p {
+  color: #ffffff;
+  text-align: left;
 }
+.button8 {
+  margin: 10px auto 100px 10px;
+  border: none;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #4f9cf9;
+  display: flex;
+  padding: 0 0px;
+  width: 170px;
+  height: 60px;
+}
+.button8 h3 {
+  color: #ffffff;
+  margin-left: -20px;
+}
+.button8 img {
+  width: 20px;
+  height: 20px;
+  margin: 0px;
+  margin-left: 90px;
+
+  color: #ffffff;
+}
+/* ------------------------------------------------------------------------------------------------------- */
+.Element {
+  margin-top: 35px;
+}
+/* ------------------------------------------------------------------------------------------------------------ */
