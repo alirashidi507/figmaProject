@@ -5,10 +5,8 @@
   /* padding: 0; */
   box-sizing: border-box;
 }
-body {
-  /*width: 90%;*/
 
-  /*margin: 0 auto;*/
+body {
 }
 
 .container {
@@ -366,8 +364,12 @@ p {
 
 .content8 img {
   width: 274px;
+  position: absolute;
 }
 .content8 h1 {
+  position: relative;
+  font-size: 30px;
+  text-align: left;
 }
 .content8 p {
 }
