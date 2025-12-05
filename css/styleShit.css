@@ -305,15 +305,16 @@ p {
   display: flex;
   justify-content: space-around;
   align-items: start;
-  padding-top: 15px;
-  padding-left: 10px;
+  padding: 15px;
 }
 .content7-hader h1 {
   margin-left: 0;
   padding: 0;
+  color: #ffffff;
 }
 .content7-hader h3 {
   font-size: 20px;
+  color: #ffffff;
 }
 .content7-main {
   flex-direction: column;
@@ -333,8 +334,40 @@ p {
 .tik h4 {
   margin-left: 50px;
   font-size: 22px;
+  color: #ffffff;
 }
 .tik img {
   width: 25px;
   margin: 0;
+}
+.button7 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border: none;
+  border-radius: 10px;
+  background-color: #4f9cf9;
+  display: flex;
+  padding: 0 20px;
+  width: 210px;
+  height: 70px;
+
+  margin: 15px 0 50px 15px;
+}
+.button7 h3 {
+  color: #ffffff;
+}
+/* --------------------------------------------------------------------------------------------------------- */
+.content8 {
+  background-color: #043873;
+  padding: 10px;
+}
+
+.content8 img {
+  width: 274px;
+}
+.content8 h1 {
+}
+.content8 p {
 }
