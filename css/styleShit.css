@@ -523,6 +523,8 @@ p {
 }
 .Vector12 {
   position: absolute;
+  padding-top: 125px;
+  padding-left: 50px;
 }
 .content12-header h1 {
   position: relative;
@@ -536,13 +538,14 @@ p {
   text-align: left;
   padding-left: 0px;
   border-bottom: 2px solid black;
-  padding-bottom: 30px;
+  padding-bottom: 40px;
 }
 .img-Group {
   text-align: left;
 }
 .content-foter {
-  padding: 20px;
+  padding: 0px 20px;
+  margin-top: -25px;
 }
 .img-amater {
   text-align: left;
