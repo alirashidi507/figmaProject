@@ -711,6 +711,13 @@ h4 {
   border-bottom: 3px solid #54667b;
   gap: 13px;
 }
+.Language {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+  width: 104px;
+}
 /* -------------------------------------------------------------------------------------------------------- */
 .content15 {
   display: flex;
@@ -718,4 +725,13 @@ h4 {
   align-items: center;
   flex-direction: row;
   gap: 35px;
+}
+.Language {
+  gap: 5px;
+}
+.Language-bar {
+  border: none;
+  border-radius: 4px;
+  background-color: #043873;
+  color: #ffffff;
 }
