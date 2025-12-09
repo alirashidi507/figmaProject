@@ -605,7 +605,7 @@ p {
   display: flex;
   justify-content: center;
   align-items: center;
-  border-bottom: 1px solid #2e4e73;
+
   flex-direction: column;
   gap: 80px;
 }
@@ -708,6 +708,7 @@ h4 {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  border-bottom: 3px solid #54667b;
   gap: 13px;
 }
 /* -------------------------------------------------------------------------------------------------------- */
